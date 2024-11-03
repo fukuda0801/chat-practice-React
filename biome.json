@@ -31,7 +31,8 @@
       },
       "style": {
         "noNamespace": "error",
-        "noUselessElse": "off"
+        "noUselessElse": "off",
+        "noNonNullAssertion": "off"
       },
       "a11y": {
         "useMediaCaption": "off"
